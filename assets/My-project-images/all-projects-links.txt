@@ -1,0 +1,21 @@
+
+Starhub:
+
+
+BYOS(single Page Survay):
+https://cxnext.blob.core.windows.net/prasanna/BYOS/index.html
+
+ACM:
+http://3.6.197.60/acm/ccreethu/config-file.html
+
+Ticket-setup:
+https://xm.webex.com/#/setup/settings/enterprise/ticket-setup
+
+Bulk import:
+https://xm.webex.com/#/setup/tokens/bulk-import
+
+Export-Responses:
+https://cxnext.blob.core.windows.net/prasanna/export-response-1/index.html#/views/Home
+
+Channels:
+https://cxnext.blob.core.windows.net/prasanna/single-page/index.html
